@@ -27,7 +27,7 @@ j = Jornal(nome_pdf, None, caminho_poppler)
 ultimo_ano_valido = ultimo_dia_valido = ultimo_mes_valido = None
 pdfs = {}
 
-for paginas in range(1, 64+1):
+for paginas in range(1, total_paginas+1):
 
 
     j.n_pag = paginas
