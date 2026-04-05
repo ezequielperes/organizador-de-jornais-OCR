@@ -47,3 +47,7 @@ Além disso:
 
 1. Instale as dependências:
 pip install -r requirements.txt
+2. Baixe o arquivo Llama-3.2-3B-Instruct-Q4_K_M.gguf:
+https://ollama.com/library/llama3.2:3b-instruct-q4_K_M
+3. Instale o pacote do poppler-25.12.0:
+https://github.com/oschwartz10612/poppler-windows/releases/
